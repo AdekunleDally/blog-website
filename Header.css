@@ -1,0 +1,11 @@
+.header {
+    display:flex;
+    border: 2px solid none;
+    grid-area: header;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    background: white;
+    justify-content: center;
+  }
+

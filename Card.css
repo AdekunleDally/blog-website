@@ -1,0 +1,76 @@
+
+.card1{
+    flex-direction:column;
+   background: url("../IMAGES/img6.jpg");
+    border: none;
+    max-height:30vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.0000000000000000000000000001s;
+    border-radius: 5px;
+    background-size: auto;
+}
+
+.card2{
+    flex-direction:column;
+    border: none;
+    max-height:100vh;
+    justify-content: center;
+    justify-items: center;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.0000000000000000000000000001s;
+    border-radius: 5px;
+    background: url("../IMAGES/img7.jpg");
+    background-size: auto;
+}
+
+.card3{
+    flex-direction:column;
+    border: none;
+    max-height:100vh;
+    justify-content: center;
+    justify-items: center;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.0000000000000000000000000001s;
+    border-radius: 5px;
+    background: url("../IMAGES/sport1.jpg");
+    background-size: auto;
+}
+
+.card4{
+    flex-direction:column;
+    border:none;
+    max-height:100vh;
+    justify-content: center;
+    justify-items: center;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.0000000000000000000000000001s;
+    border-radius: 5px;
+    background: url("../IMAGES/career3.jpg");
+    background-size: auto;
+}
+
+.card5{
+    flex-direction:column;
+    border: none;
+    max-height:100vh;
+    justify-content: center;
+    justify-items: center;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.0000000000000000000000000001s;
+    border-radius: 5px;
+    background: url("../IMAGES/img5.jpg");
+    background-size: auto;
+}
+
+ 
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(253, 246, 246, 0.2);
+  }
